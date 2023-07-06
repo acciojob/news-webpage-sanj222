@@ -14,7 +14,7 @@
 	display:flex;
 	height:400px;
 }
-.list{
+.latest-news-section{
 	background-color:white;
 	color:black;
 	border-radius:8px;
@@ -36,7 +36,7 @@
 	padding:10px;
 	text-align:center;
 }
-.images{
+.pictorial-news-section{
 	background-color:white;
 	color:black;
 	border-radius:8px;
@@ -46,6 +46,6 @@
 	padding:10px;
 	width:150px;
 }
-.images img{
+.pictorial-news-section img{
 	width:130px;
 }
